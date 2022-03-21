@@ -1,0 +1,4 @@
+custom_auth_app/__pycache__/
+custom_auth_app/migrations/__pycache__/
+CustomAuthProject/__pycache__/
+/db.sqlite3
